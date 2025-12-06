@@ -1,2 +1,3 @@
 # advent-of-code
-My AOC solutions
+
+This repository has my solutions for Advent of Code.
